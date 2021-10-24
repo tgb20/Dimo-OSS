@@ -6,7 +6,7 @@ Open source assets that make up the Dimo Pterodactyl app.
 [Beta test with Testflight for iOS](https://testflight.apple.com/join/ICRyMFP1)
 
 ## About
-Dimo is a native iOS mobile app allowing users to control their Pterodactyl servers on the go. The core application of Dimo is closed source at this time however parts of it will be shared here for open source use under the MIT license. Planned elements to be open sourced is the Swift based ANSI parser and the framework for creating extensions. This will also eventually be the home of the approved community extensions.
+Dimo is a native iOS mobile app allowing users to control their Pterodactyl servers on the go. The core application of Dimo is closed source at this time, however parts of it will be open sourced under the MIT license. The planned components to be open sourced are the Swift based ANSI parser and the framework for creating extensions. This will also eventually be the home of the approved community extensions.
 
 ## Pterodactyl API Completion
 This list tracks api feature completion. This does not mean that the UI element is in its final state, it just means it is functional in terms of api requests and usage. If something is not in this list it means it is not current planned.
