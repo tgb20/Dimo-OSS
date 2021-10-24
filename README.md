@@ -9,9 +9,10 @@ Open source assets that make up the Dimo Pterodactyl app.
 Dimo is a native iOS mobile app allowing users to control their Pterodactyl servers on the go. The core application of Dimo is closed source at this time however parts of it will be shared here for open source use under the MIT license. Planned elements to be open sourced is the Swift based ANSI parser and the framework for creating extensions. This will also eventually be the home of the approved community extensions.
 
 ## Pterodactyl API Completion
-
 This list tracks api feature completion. This does not mean that the UI element is in its final state, it just means it is functional in terms of api requests and usage. If something is not in this list it means it is not current planned.
 
+<details>
+  
 #### ❌ Pterodactyl
 - [x] List servers
 - [ ] Show permissions
@@ -88,3 +89,4 @@ This list tracks api feature completion. This does not mean that the UI element 
 #### ❌ Settings
 - [ ] Rename server
 - [ ] Reinstall server
+</details>
