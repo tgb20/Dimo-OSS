@@ -14,7 +14,7 @@ This list tracks api feature completion. This does not mean that the UI element 
 <details>
   
 #### ❌ Pterodactyl
-- [x] List servers
+- [ ] List servers
 - [ ] Show permissions
 
 #### ❌ Account
@@ -28,25 +28,25 @@ This list tracks api feature completion. This does not mean that the UI element 
 - [ ] Create API key
 - [ ] Delete API key
 
-#### ✅ Server
-- [x] Server details
-- [x] Console details
-- [x] Resource usage
-- [x] Send command 
-- [x] Change power state
+#### ❌ Server
+- [ ] Server details
+- [ ] Console details
+- [ ] Resource usage
+- [ ] Send command 
+- [ ] Change power state
 
-#### ✅ Databases
-- [x] List databases
-- [x] Create database
-- [x] Rotate password
-- [x] Delete database
+#### ❌ Databases
+- [ ] List databases
+- [ ] Create database
+- [ ] Rotate password
+- [ ] Delete database
 
 #### ❌ File Manager
-- [x] List files
-- [x] Get file contents
+- [ ] List files
+- [ ] Get file contents
 - [ ] Rename file
 - [ ] Copy file
-- [x] Write file
+- [ ] Write file
 - [ ] Compress file
 - [ ] Decompress file
 - [ ] Delete file
