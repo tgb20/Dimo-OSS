@@ -17,14 +17,14 @@ This list tracks api feature completion. This does not mean that the UI element 
 - [ ] List servers
 - [ ] Show permissions
 
-#### ❌ Account
+#### ✅ Account
 - [x] Account details
 - [ ] ~~2FA details~~
 - [ ] ~~Enable 2FA~~
 - [ ] ~~Disable 2FA~~
 - [ ] ~~Update email~~
 - [ ] ~~Update password~~
-- [ ] List API keys
+- [x] List API keys
 - [ ] ~~Create API key~~
 - [ ] ~~Delete API key~~
 
