@@ -22,11 +22,11 @@ This list tracks api feature completion. This does not mean that the UI element 
 - [ ] ~~2FA details~~
 - [ ] ~~Enable 2FA~~
 - [ ] ~~Disable 2FA~~
-- [ ] Update email
-- [ ] Update password
+- [ ] ~~Update email~~
+- [ ] ~~Update password~~
 - [ ] List API keys
-- [ ] Create API key
-- [ ] Delete API key
+- [ ] ~~Create API key~~
+- [ ] ~~Delete API key~~
 
 #### ❌ Server
 - [ ] Server details
