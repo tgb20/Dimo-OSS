@@ -1,5 +1,3 @@
-![Dimo Logo](images/dimo-logo-small.png?raw=true "Dimo Logo")
-
 # Dimo-OSS
 Open source assets that make up the Dimo Pterodactyl app.
 
@@ -14,7 +12,7 @@ This list tracks api feature completion. This does not mean that the UI element 
 <details>
   
 #### ❌ Pterodactyl
-- [ ] List servers
+- [x] List servers
 - [ ] Show permissions
 
 #### ✅ Account
@@ -28,12 +26,12 @@ This list tracks api feature completion. This does not mean that the UI element 
 - [ ] ~~Create API key~~
 - [ ] ~~Delete API key~~
 
-#### ❌ Server
-- [ ] Server details
-- [ ] Console details
-- [ ] Resource usage
-- [ ] Send command 
-- [ ] Change power state
+#### ✅ Server
+- [x] Server details
+- [x] Console details
+- [x] Resource usage
+- [x] Send command 
+- [x] Change power state
 
 #### ❌ Databases
 - [ ] List databases
@@ -42,11 +40,11 @@ This list tracks api feature completion. This does not mean that the UI element 
 - [ ] Delete database
 
 #### ❌ File Manager
-- [ ] List files
-- [ ] Get file contents
+- [x] List files
+- [x] Get file contents
 - [ ] Rename file
 - [ ] Copy file
-- [ ] Write file
+- [x] Write file
 - [ ] Compress file
 - [ ] Decompress file
 - [ ] Delete file
